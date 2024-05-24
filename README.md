@@ -8,6 +8,7 @@ A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentatio
   - Logan Jastremski with Espresso Systems CEO Ben Fisch 
 - [Are Intents, SUAVE, Account Abstraction, & Cross-Chain Bridging all the same thing?](https://www.youtube.com/watch?v=G0nFyq9DDPw)
   - Uma Roy at Succint
+- [The CAKE Framework](https://www.youtube.com/watch?v=2amKtIyF2TE) - Ankit Chiplunkar & Stephane Gosselin
 
 ## Articles
 
