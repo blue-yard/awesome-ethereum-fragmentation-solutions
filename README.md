@@ -2,6 +2,8 @@
 
 A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentation Issues.
 
+# Education
+
 ## Talks / Interviews
 
 - [The fundamental problem of state propagation](https://www.youtube.com/watch?v=iWdlTBWXN2k)
@@ -16,6 +18,10 @@ A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentatio
   - Frontier Tech Research. Discussing all the components required and tradeoffs in solving fragmentation
 - [How Ethereum can solve L2 liquidity fragmentation](https://paragraph.xyz/@blueyard/how-ethereum-can-solve-l2-liquidity-fragmentation)
   - Tim Robinson from BlueYard.
+- [Magic Spend](https://mirror.xyz/bungeexchange.eth/D3HVezTJkaKRyH7lGavJUTGfLBJF0lLq06yWh88DHWM)
+  - Bungee/Socket, describing a new wallet type that can spend funds anywhere. 
+
+# Products
 
 ## Liquidity Aggregation
 
@@ -25,6 +31,11 @@ A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentatio
   - A bridge/chain that aggregates liquidity and has a shared inbox for connected chains
 - [ZKLink](https://zklink.io/)
   - A Layer3 that connects to all Layer 2/3's to aggregate liquidity between them. 
+
+## Chain Abstraction
+
+- [Arcana](https://arcana.network/)
+ - A Layer 1 powering chain abstraction. Also has a wallet coming soon.
  
 ## Intent Protocols
 
@@ -35,3 +46,11 @@ A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentatio
 
 - [ZKLink Magic Links](https://github.com/zkLinkProtocol/zklink-intent-url/blob/main/docs/develop.md)
   - Tool to turn a cross-chain intent into a simple link. 
+
+## Unified Wallets
+
+Wallets that allow spending your tokens on any chain seamlessly
+
+- [One Balance](https://www.onebalance.io/)
+- [Particle Network](https://particle.network/)
+- [ZeroDev Magic Accounts](https://docs.zerodev.app/magic-account)
