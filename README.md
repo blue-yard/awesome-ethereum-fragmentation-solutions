@@ -4,6 +4,11 @@ A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentatio
 
 # Education
 
+## Sites
+
+- [Chain Abstraction Hub](https://ca.dev/)
+  - Covers the entire chain abstraction space and all companies/products. Also features explainers of terms and protocols.  
+
 ## Talks / Interviews
 
 - [The fundamental problem of state propagation](https://www.youtube.com/watch?v=iWdlTBWXN2k)
@@ -20,6 +25,8 @@ A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentatio
   - Tim Robinson from BlueYard.
 - [Magic Spend](https://mirror.xyz/bungeexchange.eth/D3HVezTJkaKRyH7lGavJUTGfLBJF0lLq06yWh88DHWM)
   - Bungee/Socket, describing a new wallet type that can spend funds anywhere. 
+- [Fusion Module](https://ethresear.ch/t/fusion-module-7702-alternative-with-no-protocol-changes/20949)
+  - A module that allows an EOA account to function as a smart contract account with batched sending, chain abstraction etc. 
 
 # Products
 
@@ -42,15 +49,24 @@ A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentatio
 - [Socket](https://www.socket.tech/)
   - A protocol to make a series of actions occur across any chains.
 
-## Intent Creation Tools / SDK's
+## Tools / SDK's
 
 - [ZKLink Magic Links](https://github.com/zkLinkProtocol/zklink-intent-url/blob/main/docs/develop.md)
   - Tool to turn a cross-chain intent into a simple link. 
+- [Orby by Orb Labs](https://docs-orby.orblabs.xyz/)
+  - SDK to make your app/wallet chain abstracted
 
-## Unified Wallets
+## Universal Accounts
 
 Wallets that allow spending your tokens on any chain seamlessly
 
 - [One Balance](https://www.onebalance.io/)
 - [Particle Network](https://particle.network/)
 - [ZeroDev Magic Accounts](https://docs.zerodev.app/magic-account)
+
+# Standards
+
+- [ERC-7683](https://www.erc7683.org/)
+  - A standard for cross-chain intents
+- [EIP-7702](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7702.md)
+  - Allows EOA accounts to act like a smart contract account giving them batch signing, paymasters, and unlocking full chain abstraction when combined with other services. 
