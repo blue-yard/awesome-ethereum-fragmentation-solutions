@@ -55,18 +55,27 @@ A Collection of Article, Talks, and Solutions to Ethereum's Layer 2 Fragmentatio
   - Tool to turn a cross-chain intent into a simple link. 
 - [Orby by Orb Labs](https://docs-orby.orblabs.xyz/)
   - SDK to make your app/wallet chain abstracted
+- [Near Chain Signatures](https://docs.near.org/concepts/abstraction/chain-signatures)
+  - NEAR Accounts that allow one set of keys to manage assets across most chains, even non-smart contract ones.
 
-## Universal Accounts
+## Universal Accounts / Wallets
 
 Wallets that allow spending your tokens on any chain seamlessly
 
+- [Ambire Wallet](https://www.ambire.com/)
+- [Avocado Wallet](https://avocado.instadapp.io/login)
+- [Brahma](https://brahma.fi/)
+- [Magic Newton](https://www.magicnewton.com/)
 - [One Balance](https://www.onebalance.io/)
 - [Particle Network](https://particle.network/)
+- [Polaris](https://polaris.app/)
 - [ZeroDev Magic Accounts](https://docs.zerodev.app/magic-account)
+
+
 
 # Standards
 
 - [ERC-7683](https://www.erc7683.org/)
   - A standard for cross-chain intents
-- [EIP-7702](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7702.md)
+- [EIP-7702](https://eip7702.io/)
   - Allows EOA accounts to act like a smart contract account giving them batch signing, paymasters, and unlocking full chain abstraction when combined with other services. 
